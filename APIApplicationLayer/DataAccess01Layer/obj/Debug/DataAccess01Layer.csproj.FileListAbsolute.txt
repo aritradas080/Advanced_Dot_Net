@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\APIApplicationLayer\DataAccess01Layer\bin\Debug\DataAccess01Layer.dll.config
+C:\Users\USER\source\repos\APIApplicationLayer\DataAccess01Layer\bin\Debug\DataAccess01Layer.dll
+C:\Users\USER\source\repos\APIApplicationLayer\DataAccess01Layer\bin\Debug\DataAccess01Layer.pdb
+C:\Users\USER\source\repos\APIApplicationLayer\DataAccess01Layer\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\APIApplicationLayer\DataAccess01Layer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\APIApplicationLayer\DataAccess01Layer\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\APIApplicationLayer\DataAccess01Layer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\APIApplicationLayer\DataAccess01Layer\obj\Debug\DataAccess01Layer.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\APIApplicationLayer\DataAccess01Layer\obj\Debug\DataAccess01Layer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\APIApplicationLayer\DataAccess01Layer\obj\Debug\DataAccess01Layer.csproj.CopyComplete
+C:\Users\USER\source\repos\APIApplicationLayer\DataAccess01Layer\obj\Debug\DataAccess01Layer.dll
+C:\Users\USER\source\repos\APIApplicationLayer\DataAccess01Layer\obj\Debug\DataAccess01Layer.pdb
+C:\Users\USER\source\repos\APIApplicationLayer\DataAccess01Layer\obj\Debug\DataAccess01Layer.Migrations.initdb.resources
+C:\Users\USER\source\repos\APIApplicationLayer\DataAccess01Layer\obj\Debug\DataAccess01Layer.csproj.GenerateResource.cache

@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\APIApplicationLayer\BusinessLogic01Layer\bin\Debug\BusinessLogic01Layer.dll
+C:\Users\USER\source\repos\APIApplicationLayer\BusinessLogic01Layer\bin\Debug\BusinessLogic01Layer.pdb
+C:\Users\USER\source\repos\APIApplicationLayer\BusinessLogic01Layer\bin\Debug\DataAccess01Layer.dll
+C:\Users\USER\source\repos\APIApplicationLayer\BusinessLogic01Layer\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\APIApplicationLayer\BusinessLogic01Layer\bin\Debug\DataAccess01Layer.pdb
+C:\Users\USER\source\repos\APIApplicationLayer\BusinessLogic01Layer\bin\Debug\DataAccess01Layer.dll.config
+C:\Users\USER\source\repos\APIApplicationLayer\BusinessLogic01Layer\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\APIApplicationLayer\BusinessLogic01Layer\obj\Debug\BusinessLogic01Layer.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\APIApplicationLayer\BusinessLogic01Layer\obj\Debug\BusinessLogic01Layer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\APIApplicationLayer\BusinessLogic01Layer\obj\Debug\BusinessLogic01Layer.csproj.CopyComplete
+C:\Users\USER\source\repos\APIApplicationLayer\BusinessLogic01Layer\obj\Debug\BusinessLogic01Layer.dll
+C:\Users\USER\source\repos\APIApplicationLayer\BusinessLogic01Layer\obj\Debug\BusinessLogic01Layer.pdb
