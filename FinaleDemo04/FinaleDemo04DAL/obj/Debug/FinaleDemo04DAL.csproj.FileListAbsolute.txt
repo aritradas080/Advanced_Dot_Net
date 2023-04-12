@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\FinaleDemo04\FinaleDemo04DAL\bin\Debug\FinaleDemo04DAL.dll.config
+C:\Users\USER\source\repos\FinaleDemo04\FinaleDemo04DAL\bin\Debug\FinaleDemo04DAL.dll
+C:\Users\USER\source\repos\FinaleDemo04\FinaleDemo04DAL\bin\Debug\FinaleDemo04DAL.pdb
+C:\Users\USER\source\repos\FinaleDemo04\FinaleDemo04DAL\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\FinaleDemo04\FinaleDemo04DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\FinaleDemo04\FinaleDemo04DAL\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\FinaleDemo04\FinaleDemo04DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\FinaleDemo04\FinaleDemo04DAL\obj\Debug\FinaleDemo04DAL.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\FinaleDemo04\FinaleDemo04DAL\obj\Debug\FinaleDemo04DAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FinaleDemo04\FinaleDemo04DAL\obj\Debug\FinaleDemo04DAL.csproj.CopyComplete
+C:\Users\USER\source\repos\FinaleDemo04\FinaleDemo04DAL\obj\Debug\FinaleDemo04DAL.dll
+C:\Users\USER\source\repos\FinaleDemo04\FinaleDemo04DAL\obj\Debug\FinaleDemo04DAL.pdb
+C:\Users\USER\source\repos\FinaleDemo04\FinaleDemo04DAL\obj\Debug\FinaleDemo04DAL.Migrations.ok1.resources
+C:\Users\USER\source\repos\FinaleDemo04\FinaleDemo04DAL\obj\Debug\FinaleDemo04DAL.csproj.GenerateResource.cache
