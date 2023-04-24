@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\FinaleDemo05\FinaleDemo05BLL\bin\Debug\FinaleDemo05BLL.dll
+C:\Users\USER\source\repos\FinaleDemo05\FinaleDemo05BLL\bin\Debug\FinaleDemo05BLL.pdb
+C:\Users\USER\source\repos\FinaleDemo05\FinaleDemo05BLL\bin\Debug\AutoMapper.dll
+C:\Users\USER\source\repos\FinaleDemo05\FinaleDemo05BLL\bin\Debug\FinaleDemo05DAL.dll
+C:\Users\USER\source\repos\FinaleDemo05\FinaleDemo05BLL\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\FinaleDemo05\FinaleDemo05BLL\bin\Debug\FinaleDemo05DAL.pdb
+C:\Users\USER\source\repos\FinaleDemo05\FinaleDemo05BLL\bin\Debug\FinaleDemo05DAL.dll.config
+C:\Users\USER\source\repos\FinaleDemo05\FinaleDemo05BLL\bin\Debug\AutoMapper.xml
+C:\Users\USER\source\repos\FinaleDemo05\FinaleDemo05BLL\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\FinaleDemo05\FinaleDemo05BLL\obj\Debug\FinaleDemo05BLL.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\FinaleDemo05\FinaleDemo05BLL\obj\Debug\FinaleDemo05BLL.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FinaleDemo05\FinaleDemo05BLL\obj\Debug\FinaleDemo05BLL.csproj.CopyComplete
+C:\Users\USER\source\repos\FinaleDemo05\FinaleDemo05BLL\obj\Debug\FinaleDemo05BLL.dll
+C:\Users\USER\source\repos\FinaleDemo05\FinaleDemo05BLL\obj\Debug\FinaleDemo05BLL.pdb
